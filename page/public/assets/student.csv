@@ -1,0 +1,62 @@
+Student_Name,Student_ID,Attendance,Grades,Engagement_Score,Socioeconomic_Status,Parental_Involvement,Extracurricular_Activities,Behavioral_Issues,Family_Structure,Transportation_Issues,Mental_Health_Indicators
+Ashley Morris,1,81,53,21,High,Low,Arts and Crafts,0,Single Parent,Yes,No
+James Conway,2,44,42,21,Medium,High,Singing,5,Both Parents,Yes,No
+Patrick Newton,3,90,40,73,Low,Medium,Singing,6,Single Parent,Yes,Yes
+Justin Williams,4,50,44,20,Medium,Low,Arts and Crafts,7,Both Parents,Yes,No
+Mr. Michael Hurst,5,53,65,38,Low,Medium,Other,9,Guardian,No,No
+John Kelley,6,32,94,21,High,High,Sports,8,Single Parent,No,No
+Matthew Flynn,7,51,53,72,Low,High,Singing,1,Guardian,No,Yes
+Brian Obrien,8,82,78,63,Low,High,Swimming,9,Single Parent,Yes,No
+Melanie Chambers,9,31,66,51,Low,Low,Sports,1,Both Parents,No,No
+Elizabeth Burns,10,59,48,89,High,Medium,Swimming,4,Guardian,Yes,Yes
+Mrs. Rose Lowery,11,67,54,51,High,Medium,Dance,4,Single Parent,No,No
+Jacob Flores,12,31,54,87,Low,Medium,Sports,5,Both Parents,No,Yes
+Jessica Charles,13,93,65,74,Low,High,Singing,2,Guardian,No,Yes
+Frank Williams,14,89,81,94,Medium,Low,Sports,7,Guardian,Yes,Yes
+Mark Wheeler,15,50,99,75,Low,High,Sports,0,Single Parent,No,Yes
+Brenda Rodriguez,16,62,52,36,Medium,High,Sports,5,Single Parent,No,Yes
+Christopher Compton,17,87,90,57,Low,Medium,Other,3,Single Parent,Yes,No
+Wanda Sellers,18,51,71,43,Medium,High,Sports,0,Both Parents,No,Yes
+Jason Ware,19,78,78,88,High,Medium,Swimming,6,Single Parent,Yes,Yes
+Anthony Roy,20,88,88,89,Low,Low,Dance,8,Guardian,No,No
+Wayne Walker,21,71,91,30,Low,Medium,Arts and Crafts,3,Guardian,Yes,Yes
+Russell Christian MD,22,89,100,35,Low,Low,Sports,3,Single Parent,Yes,No
+Zachary Jones,23,44,71,92,Low,Medium,Singing,5,Single Parent,No,No
+Pamela Johnson,24,91,43,78,Medium,High,Sports,2,Guardian,Yes,No
+Craig Tran,25,91,69,89,Low,High,Singing,5,Both Parents,Yes,Yes
+Matthew Duncan,26,76,76,99,High,Low,Swimming,6,Single Parent,Yes,Yes
+Marc Hill DDS,27,91,62,22,High,Low,Singing,9,Single Parent,Yes,Yes
+Christopher Carr,28,80,78,39,Low,Low,Arts and Crafts,9,Guardian,Yes,No
+Christopher Mays,29,84,84,78,High,Medium,Dance,2,Single Parent,Yes,Yes
+Ryan Richard,30,93,54,55,Low,Medium,Singing,6,Both Parents,No,Yes
+Jason Green,31,32,82,38,Low,Low,Singing,2,Guardian,Yes,Yes
+Rachel Cooper,32,80,68,86,High,High,Dance,1,Single Parent,Yes,No
+Teresa Abbott,33,36,75,38,Low,Medium,Arts and Crafts,9,Guardian,No,No
+Heidi Herrera,34,50,52,39,High,Medium,Sports,3,Single Parent,No,Yes
+Bradley King,35,68,71,90,Medium,Medium,Singing,7,Single Parent,No,Yes
+Robert Wong,36,47,46,71,Low,Low,Dance,8,Single Parent,No,Yes
+Alison Hill,37,33,98,52,Medium,Low,Swimming,6,Both Parents,No,Yes
+Matthew Franco,38,89,90,59,High,Low,Dance,0,Both Parents,No,No
+Debbie Fox,39,43,61,58,Medium,Low,Swimming,2,Guardian,No,No
+Sarah Wilson,40,38,67,20,Medium,Low,Arts and Crafts,8,Single Parent,Yes,No
+Charles Valencia,41,82,41,30,High,High,Sports,0,Single Parent,Yes,No
+Julian White,42,31,81,76,Medium,High,Dance,8,Both Parents,No,Yes
+Daniel James,43,89,84,69,Medium,Low,Other,7,Single Parent,Yes,Yes
+Suzanne Lopez,44,100,96,42,High,Medium,Singing,0,Both Parents,Yes,Yes
+Richard Davis,45,73,92,50,Medium,Low,Arts and Crafts,5,Single Parent,Yes,No
+Justin Ward,46,37,45,61,High,High,Dance,4,Guardian,No,Yes
+Patrick Lopez,47,76,67,26,Medium,High,Singing,5,Single Parent,No,No
+Mary Rodriguez,48,64,67,35,High,Medium,Dance,9,Single Parent,Yes,No
+Matthew Nielsen,49,65,83,79,High,High,Swimming,4,Both Parents,No,Yes
+Kelly Romero,50,79,83,21,Medium,Low,Dance,5,Single Parent,Yes,Yes
+Brittany Golden,51,33,59,20,Medium,Medium,Other,4,Single Parent,Yes,Yes
+Michael Nguyen,52,31,69,67,Medium,Low,Dance,4,Both Parents,Yes,No
+Dorothy Rhodes,53,35,50,31,Low,Low,Dance,3,Guardian,Yes,Yes
+Jason Martinez,54,83,97,88,Low,Medium,Other,2,Guardian,No,No
+Melissa Ingram,55,33,94,56,Low,Low,Arts and Crafts,2,Both Parents,No,Yes
+Deborah Russo,56,83,67,51,High,High,Dance,3,Both Parents,No,No
+Margaret Horton,57,92,64,28,Medium,Low,Other,8,Both Parents,Yes,No
+Mark Combs,58,47,78,38,High,Medium,Singing,1,Both Parents,No,Yes
+John Owen,59,73,72,67,Low,Medium,Swimming,8,Both Parents,Yes,No
+Emily Sawyer,60,63,40,99,Medium,Medium,Swimming,0,Guardian,No,No
+Anthony Cox,61,91,96,22,High,Low,Dance,0,Guardian,Yes,Yes

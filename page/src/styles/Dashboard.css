@@ -1,0 +1,59 @@
+.dashboard {
+    background: #f8f9fa;
+    min-height: 100vh;
+  }
+  
+  .navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card {
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* Ensure cards take full height */
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-img-top {
+    height: 200px; /* Fixed height for images */
+    object-fit: cover; /* Ensure images fit nicely */
+  }
+  
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1; /* Ensure card body takes remaining space */
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    color: #666;
+    flex-grow: 1; /* Ensure text takes remaining space */
+  }
+  
+  .btn-primary {
+    background: #2575fc;
+    border: none;
+    transition: background 0.3s ease-in-out;
+    align-self: flex-start; /* Align button to the start */
+  }
+  
+  .btn-primary:hover {
+    background: #1a5bbf;
+  }
+
+  
